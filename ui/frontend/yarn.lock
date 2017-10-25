@@ -4281,9 +4281,9 @@ tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   version "0.14.5"
   resolved "https://registry.yarnpkg.com/tweetnacl/-/tweetnacl-0.14.5.tgz#5ae68177f192d4456269d108afa93ff8743f4f64"
 
-typescript@~2.4.2:
-  version "2.4.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.4.2.tgz#f8395f85d459276067c988aa41837a8f82870844"
+typescript@^2.7.0-dev.20171025:
+  version "2.7.0-dev.20171025"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.7.0-dev.20171025.tgz#111f4617d164df470594f22f9d4a7cf8fceb9d5d"
 
 ua-parser-js@^0.7.9:
   version "0.7.17"
